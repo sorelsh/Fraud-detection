@@ -1,3 +1,1 @@
-# exclude everything except directory foo/bar
-/*
-!/Files
+/Files/
